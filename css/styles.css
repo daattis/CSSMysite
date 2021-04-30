@@ -1,0 +1,33 @@
+
+body {
+    margin: 0cm;
+    text-align: center;
+    font-family: verdana, sans-serif;
+}
+
+
+/************* CLASS SELECTORS *************/
+.top-container {
+    background-color: #ffe2e2;
+    margin-left: 0cm;
+    margin-right: 0cm;
+    position: relative;
+    padding-top: 100px;
+}
+.middle-container {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+.bottom-container {
+    width: 200px;
+    height: 200px;
+    background-color:red;
+}
+.top-cloud {
+position:absolute;
+margin-left: 150px;
+}
+.bottom-cloud {
+position: absolute;
+}
